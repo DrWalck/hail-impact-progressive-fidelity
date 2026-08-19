@@ -19,7 +19,7 @@ preferred-citation:
   title: "Progressive Model Fidelity for Hail Impact — Paper 1 Reproducibility Release"
   authors:
     - family-names: Walck
-      given-names: Christine Dailey
+    - given-names: Christine Dailey
   version: 1.0.0
   year: 2026
   doi: 10.5281/zenodo.22012751
