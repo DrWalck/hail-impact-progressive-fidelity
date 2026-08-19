@@ -1,0 +1,5 @@
+Paper 1 Models 3-5 hybrid production audit run
+Model 3: canonical environmental model from Models 1-3 driver.
+Model 4: original reduced-order beta correction reproduced from legacy implementation.
+Model 5: chi=0.50 List/Kry lift/moment branch + Theis natural-hail drag + Euler rotation.
+IMPORTANT: K damping conversion to SI is NOT yet independently verified; this audit run therefore uses K=0.0. Do not use Model 5 numbers as final manuscript results until K mapping is verified.

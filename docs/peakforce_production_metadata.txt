@@ -1,0 +1,4 @@
+Canonical Models 1-4 peak-normal-force production run using Sun et al. (2015) Eq. (18).
+Sun direct calibration range: 7.9-29.1 m/s; published analytical/design application: 10-40 m/s.
+Cases outside 10-40 m/s are flagged extrapolative; Eq. 18 is not evaluated where the published COR correlation is nonpositive.
+Model 4 uses inherited reduced-order beta correction; roof pitch=30 deg.

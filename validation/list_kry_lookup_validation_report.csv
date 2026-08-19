@@ -1,0 +1,7 @@
+case,quantity,Re,theta,chi,value,status,details
+CM_chi0p50_theta45_Re4e4,CM,40000.0,45.0,0.5,0.067,interpolated_2d_within_measured_slices,Interpolated in Re and theta within chi=0.50 measurements.
+CM_chi0p67_theta45_Re4e4,CM,40000.0,45.0,0.67,0.052,interpolated_2d_within_measured_slices,Interpolated in Re and aspect ratio within theta=45 measurements.
+CD_chi0p50_theta45_Re1e5,CD,100000.0,45.0,0.5,0.52,interpolated_2d_within_measured_slices,Interpolated in Re within bracketing chi=0.50 angle slices.
+CL_chi0p50_theta45_Re1e5,CL,100000.0,45.0,0.5,0.28,interpolated_2d_within_measured_slices,Interpolated in Re and theta within chi=0.50 measurements.
+CM_outside_Re,CM,500000.0,45.0,0.5,,extrapolation_required,"Requested x=500000 lies outside [40000, 400000]."
+CM_unsupported_theta_chi,CM,100000.0,37.5,0.65,,unsupported_parameter_combination,"No published/digitized slice brackets this (Re, theta, chi) combination without unsupported 2-D/3-D extrapolation."

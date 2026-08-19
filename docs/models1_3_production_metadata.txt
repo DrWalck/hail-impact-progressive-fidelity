@@ -1,0 +1,9 @@
+Paper 1 Models 1-3 canonical production run
+Models: 1 gravity only; 2 Theis natural-hail drag in constant stationary atmosphere; 3 same drag + altitude-varying atmosphere + 33.3 m/s uniform horizontal wind.
+Diameters (in): 1.00, 1.25, 1.50, 1.75, 2.00, 2.50, 3.00, 3.25
+Nominal height (m): 1000.0
+Nominal hail density (kg/m^3): 790.0
+Roof pitches for incidence table (deg): 15.0, 30.0, 45.0
+Model 3 evidence status is a sensitivity condition because the nominal 33.3 m/s wind is a prescribed environmental sensitivity, not a measured hail-storm field realization.
+No Model 4 or Model 5 quantities are included in these production files.
+Incidence-angle rows for Model 3 are written to paper1_models1_3_incidence.csv for the three roof pitches.

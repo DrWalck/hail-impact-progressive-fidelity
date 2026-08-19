@@ -1,0 +1,9 @@
+diameter_in,Dmax_mm,chi_Lin_P50,psi_Theis,Re_test,theta_test_deg,CD_status,CL_status,CM_status,CD,CL,CM,primary_euler_supported
+1.0,25.4,0.5699224920000001,0.9205792804799058,100000.0,45.0,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,0.5140155016,0.2760620063999999,0.07260620063999998,True
+1.25,31.75,0.54667326875,0.8952624927693241,100000.0,45.0,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,0.51866534625,0.294661385,0.0744661385,True
+1.5,38.099999999999994,0.5249321070000001,0.8686932722662523,100000.0,45.0,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,0.52,0.29246605350000004,0.07311651337500001,True
+1.75,44.449999999999996,0.5046990067500001,0.8410351891391397,100000.0,45.0,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,interpolated_2d_within_measured_slices,0.52,0.2823495033750001,0.07058737584375002,True
+2.0,50.8,0.4859739680000001,0.8124094261626313,100000.0,45.0,unsupported_parameter_combination,unsupported_parameter_combination,unsupported_parameter_combination,,,,False
+2.5,63.5,0.45304807500000005,0.7526115451682988,100000.0,45.0,unsupported_parameter_combination,unsupported_parameter_combination,unsupported_parameter_combination,,,,False
+3.0,76.19999999999999,0.42615442800000014,0.6898554363002369,100000.0,45.0,unsupported_parameter_combination,unsupported_parameter_combination,unsupported_parameter_combination,,,,False
+3.25,82.55,0.41496969675000006,0.6574932105184509,100000.0,45.0,unsupported_parameter_combination,unsupported_parameter_combination,unsupported_parameter_combination,,,,False
