@@ -1,16 +1,25 @@
 cff-version: 1.2.0
-message: "If you use this software or dataset, please cite the associated article and archived release."
+message: "If you use this software or dataset, please cite the archived Zenodo release and the associated journal article when available."
+
 title: "Progressive Model Fidelity for Hail Impact — Paper 1 Reproducibility Release"
 type: software
 version: 1.0.0
 date-released: 2026-08-19
+
 authors:
   - family-names: Walck
     given-names: Christine Dailey
+
+doi: 10.5281/zenodo.22012751
+
+repository-code: "https://github.com/DrWalck/hail-impact-progressive-fidelity"
+
 preferred-citation:
-  type: article
-  title: "Determining the Minimum Modeling Fidelity Required for Engineering Impact Prediction: A Progressive Framework Demonstrated Using Hail Impact"
+  type: software
+  title: "Progressive Model Fidelity for Hail Impact — Paper 1 Reproducibility Release"
   authors:
     - family-names: Walck
       given-names: Christine Dailey
+  version: 1.0.0
   year: 2026
+  doi: 10.5281/zenodo.22012751
